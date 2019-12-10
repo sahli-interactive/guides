@@ -48,16 +48,12 @@ waiting a week for everybody to leave feedback**.
 Credits
 -------
 
-Thank you, [contributors](https://github.com/thoughtbot/guides/graphs/contributors)!
+Based on the awesome guides from [thoughtbot](https://github.com/thoughtbot/guides). Thank you!
 
-![thoughtbot](http://presskit.thoughtbot.com/images/thoughtbot-logo-for-readmes.svg)
-
-Guides is maintained by [thoughtbot, inc](https://thoughtbot.com).
+Guides is maintained by [sahli:interactive](https://sahli-interactive.ch).
 
 License
 -------
 
-Guides is © 2018 thoughtbot, inc. It is distributed under the [Creative Commons
+Guides is © 2019 Sahli & Partner AG It is distributed under the [Creative Commons
 Attribution License](http://creativecommons.org/licenses/by/3.0/).
-
-The names and logos for thoughtbot are trademarks of thoughtbot, inc.
